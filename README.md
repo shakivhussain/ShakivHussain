@@ -32,13 +32,12 @@ Hi, I'm Shakiv Hussain, an Android Developer 🚀 from India, currently, I'm per
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: shakibraza436@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1Dn9BZFdH4Q-ObzsbVi5nQhdHSDJB3AKw/view?usp=sharing/)
-
 <br />
 <br />
 
 ## ⚙ Tech Stack
 <p align="center">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Core Java" width="36" height="36"/>  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
