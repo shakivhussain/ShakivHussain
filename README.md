@@ -1,4 +1,4 @@
-# Hey 👋🏽, 
+# Hey 👋🏽
 
 ## I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakib-hussain/) 
 
