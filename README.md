@@ -1,6 +1,6 @@
 # Hey 👋🏽
 
-## I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakib-hussain/) 
+## I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakivhussain/) 
 
 ## About me
 
@@ -29,7 +29,7 @@ Hi, I'm Shakiv Hussain, an Android Developer 🚀 from India, currently, I'm per
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: shakibraza436@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1Dn9BZFdH4Q-ObzsbVi5nQhdHSDJB3AKw/view?usp=sharing/)
+- 📝[My Resume](https://drive.google.com/file/d/1-507If36OEApOxB4npJfFVAL0tWUKqcK/view)
 <br />
 <br />
 
