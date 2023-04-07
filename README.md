@@ -4,7 +4,17 @@
 
 ## About me
 
-Hi, I'm Shakiv Hussain, an Android Developer 🚀 from India, currently, I'm persuing B.Tech degree in Computer Science from FIET BAREILLY  🙍🏽‍♂️ [Future Institiute Of Engineering and TEchnology Bareilly](https://www.linkedin.com/in/shakib-hussain). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, 
+Energetic and curiosity-driven Android Engineer ⚡. I learn new stuff every day to be on top of Android technologies and best practices 🚀.
+
+As an experienced Android Engineer with a proven track record of developing high-quality mobile applications, I am confident in my ability to contribute to the success of any team. ✨
+
+My expertise includes Android, Kotlin and Core Java, Android Jetpack Components, Dependency Injection using Dagger 2, MVVM Architecture, and REST APIs and Firebase, Git, Retrofit.👨🏼‍💻
+
+With over 2 years of experience at Hood, Oyelabs, and Sudan's Tech ✅, I have had the opportunity to work on various projects, including a recently launched app that received funding from Shark Tank India. 🚀
+
+In my current role at Hood, I have played a key role in the development and maintenance of mobile application, consistently delivering high-quality results while staying up-to-date with the latest industry trends and technologies.
+
+I am passionate about using my skills to develop innovative mobile applications that provide value to users 🙌 . Whether working independently or as part of a team, I pride myself on my problem-solving skills, attention to detail, and ability to deliver results on time and within budget 🤝.
 
 <img src="https://github.com/shakivhussain/Shakiv_Hussain/blob/master/Resource/banner.png" alt="Hello world">
 
