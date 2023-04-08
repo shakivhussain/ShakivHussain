@@ -37,7 +37,6 @@ I am passionate about using my skills to develop innovative mobile applications 
 - 🌱 I’m currently hardening my android development; 
 - 👯 I’m looking to opportunities;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: shakibraza436@gmail.com;
 - 📝[My Resume](https://drive.google.com/file/d/1-507If36OEApOxB4npJfFVAL0tWUKqcK/view)
 <br />
