@@ -1,6 +1,4 @@
-# Hey 👋🏽
-
-## I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakivhussain/) 
+# Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakivhussain/) 
 
 ## About me
 
@@ -17,6 +15,13 @@ In my current role at Hood, I have played a key role in the development and main
 I am passionate about using my skills to develop innovative mobile applications that provide value to users 🙌 . Whether working independently or as part of a team, I pride myself on my problem-solving skills, attention to detail, and ability to deliver results on time and within budget 🤝.
 
 <img src="https://github.com/shakivhussain/Shakiv_Hussain/blob/master/Resource/banner.png" alt="Hello world">
+
+
+<a href="https://www.github.com/shakivhussain" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/shakivhussain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Shakiv_Husain" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Shakiv_Husain?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
 
 **Languages and Tools:**  
 
