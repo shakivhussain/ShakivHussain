@@ -59,8 +59,5 @@ src="https://img.shields.io/twitter/follow/Shakiv_Husain?logo=twitter&style=for-
 |---|---|
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakivhussain&layout=compact"/>
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakivhussain&layout=compact"/> 
 </p>
-
-
