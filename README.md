@@ -1,7 +1,6 @@
 # Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakivhussain/) 
 
 ## About me
-
 Energetic and curiosity-driven Android Engineer ⚡. I learn new stuff every day to be on top of Android technologies and best practices 🚀.
 
 As an experienced Android Engineer with a proven track record of developing high-quality mobile applications, I am confident in my ability to contribute to the success of any team. ✨
