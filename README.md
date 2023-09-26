@@ -1,4 +1,5 @@
-# Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakivhussain/) 
+# Hey 👋 <div style="width:100px;height:100px;"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Shakiv Husain"></div> I'm [Shakiv Hussain!](https://www.linkedin.com/in/shakivhussain/)
+
 
 ## About me
 Energetic and curiosity-driven Android Engineer ⚡. I learn new stuff every day to be on top of Android technologies and best practices 🚀.
