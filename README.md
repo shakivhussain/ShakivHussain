@@ -37,7 +37,6 @@ src="https://img.shields.io/twitter/follow/Shakiv_Husain?logo=twitter&style=for-
 - 👯 I’m looking to opportunities.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: shakibraza436@gmail.com.
-- 📝[My Resume](https://drive.google.com/file/d/1-507If36OEApOxB4npJfFVAL0tWUKqcK/view)
 <br />
 <br />
 
